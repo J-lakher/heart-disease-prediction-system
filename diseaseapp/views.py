@@ -261,7 +261,7 @@ def appointment_result(request):
         your_name,
         email_message,
         your_email,
-        ['rashirashila2000@gmail.com']
+        ['jagritilakher727@gmail.com']
     )
     return render(request, 'appointment_result.html', {
         'your_name': your_name,
