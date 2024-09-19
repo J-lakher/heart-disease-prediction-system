@@ -58,14 +58,14 @@ The dataset used for this project is sourced from the UCI Machine Learning Repos
 
 ## Install the required dependencies using pip:
 
-``` pip install -r requirements.txt ```
-``` pip install django-crispy-forms ```
-``` pip install crispy-bootstrap5 ```
-``` pip install ipython ```
-``` pip install notebook ```
-``` pip install django-extensions ```
-``` pip install ipython ```
-```python -m pip install Pillow ```
+``` pip install -r requirements.txt ```  
+``` pip install django-crispy-forms ```  
+``` pip install crispy-bootstrap5 ```  
+``` pip install ipython ```  
+``` pip install notebook ```  
+``` pip install django-extensions ```  
+``` pip install ipython ```  
+```python -m pip install Pillow ```  
 
 ### Custom Data
 You can modify the dataset in the data/ directory with your custom patient data for predictions.
