@@ -57,20 +57,15 @@ The dataset used for this project is sourced from the UCI Machine Learning Repos
 ```cd heart-disease-prediction```
 
 ## Install the required dependencies using pip:
-```pip install -r requirements.txt```
 
-## Usage
-### Preprocess the Data
-The dataset can be preprocessed using the provided script:
-```python preprocess_data.py```
-
-### Train the Model
-You can train the machine learning models by running the following command:
-```python train_model.py```
-
-### Make Predictions
-To make predictions using the trained model, run:
-```python predict.py --input data/patient_data.csv```
+``` pip install -r requirements.txt ```
+``` pip install django-crispy-forms ```
+``` pip install crispy-bootstrap5 ```
+``` pip install ipython ```
+``` pip install notebook ```
+``` pip install django-extensions ```
+``` pip install ipython ```
+```python -m pip install Pillow ```
 
 ### Custom Data
 You can modify the dataset in the data/ directory with your custom patient data for predictions.
